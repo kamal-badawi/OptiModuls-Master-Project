@@ -1,0 +1,10 @@
+# Konfigurationsdateien
+.env
+.venv/
+.idea/
+
+# Temporäre/Projektspezifische Ordner (z. B. von Nutzer manuell erstellt)
+Daten\ Masterprojekt/
+Kick\ Off/
+PowerPoint\ Vorlage/
+Projektarbeit/
