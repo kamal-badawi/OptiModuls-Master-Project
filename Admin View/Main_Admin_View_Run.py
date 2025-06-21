@@ -3,7 +3,7 @@ import subprocess
 # Definiere die PowerShell-Befehle
 commands = [
     r"cd Admin View",
-    r"py -m streamlit run Main_Admin_View.py --server.port 8502 "
+    r"py -m streamlit run Main_Admin_View.py --server.port 8000"
 ]
 
 # PowerShell-Befehle joinen
