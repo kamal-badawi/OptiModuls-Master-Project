@@ -3,7 +3,7 @@ import subprocess
 # Definiere die PowerShell-Befehle
 commands = [
     r"cd Student-View",
-    r"py -m streamlit run Main_Student_View.py --server.port 8080"
+    r"py -m streamlit run Main_Student_View.py --server.port 8000"
 ]
 
 # PowerShell-Befehle joinen
